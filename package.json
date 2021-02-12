@@ -1,0 +1,20 @@
+{
+  "name": "study-monorepo-falcon",
+  "version": "0.0.0",
+  "description": "> 🔬 Studying highly cached monorepo app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/douglasduteil/study-monorepo-falcon.git"
+  },
+  "keywords": [],
+  "author": "Douglas Duteil <douglasduteil@gmail.com> (https://douglasduteil.github.io/)",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/douglasduteil/study-monorepo-falcon/issues"
+  },
+  "homepage": "https://github.com/douglasduteil/study-monorepo-falcon#readme"
+}
